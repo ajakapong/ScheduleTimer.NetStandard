@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>W.Jakapong</Authors>
+    <Description>Timer for specifing absolute schedules.  
+Ref. Andrew Brummer</Description>
+    <Copyright>W.Jakapong © 2018</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Xml.XmlDocument" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>
